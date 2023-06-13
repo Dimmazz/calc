@@ -1,0 +1,33 @@
+body {
+  background-color: $color-black;
+}
+
+:root {
+  // font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: $font-main;
+  line-height: 1;
+  font-weight: 400;
+
+  color-scheme: dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+// ::-webkit-scrollbar {
+//   width: .6rem;
+//   border-radius: .5rem;
+//   background-color: $color-primary;
+
+//   &-thumb {
+//     background-color: $color-primary-dark;
+//     border-radius: .5rem;
+
+//     &:hover {
+//       // background-color: hsl($color-primary, 8%, 44%);
+//     }
+//   }
+// }

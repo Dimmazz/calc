@@ -1,0 +1,38 @@
+// colors
+$color-primary: #728AB7;
+$color-primary-dark: #52627F;
+$color-second: #666666;
+$color-third: #745FF2;
+
+$color-white: #FFFFFF;
+$color-black: #000000;
+
+$color-dark: #F0F0F3;
+$color-bg: #292929;
+$color-light-bg: #eeeeee;
+
+$color-hover: #2DD3C5;
+$color-focus: rgba($color: $color-primary, $alpha: 0.12);
+$color-disabled: rgba($color: $color-white, $alpha: 0.38);
+
+$default-border: 1px solid rgba($color: $color-white, $alpha: 0.12);
+// $box-shadow: 1px solid rgba(255, 255, 255, 12);
+$box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+
+
+// width screen
+$screen-desktop: 1920px;
+$screen-laptop: 1024px;
+$screen-tablet: 768px;
+$screen-big-mobile: 568px;
+$screen-mobile: 375px;
+
+
+// Font
+$font-main: "Poppins", sans-serif;
+// fontSize
+$fz-main: 16px;
+$fz-primary: 1.25rem;
+$fz-large: 2rem;
+$fz-large-main: 1.5rem;
+$fz-small: .875rem;
